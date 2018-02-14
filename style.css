@@ -1,0 +1,14 @@
+#background {
+    background: url("http://content.macnet.pro/images/backgrounds/hsw000.jpg")
+}
+
+#text {
+    font-family: sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+#loader {
+    width: 70px;
+    height: 70px;
+}
